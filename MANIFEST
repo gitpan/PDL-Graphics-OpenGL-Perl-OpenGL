@@ -80,6 +80,7 @@ utils/exports.txt
 utils/glext_procs.pl
 utils/glversion.c
 utils/hdr_diff.pl
+utils/Makefile
 utils/Makefile.cygwin
 utils/Makefile.macosx
 utils/makefile.mak
