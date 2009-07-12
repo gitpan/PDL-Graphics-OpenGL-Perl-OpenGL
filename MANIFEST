@@ -76,12 +76,11 @@ pogl_rpn.xs
 ppport.h
 README
 SUPPORTS
-t/require.t
-t/use.t
+t/00_require.t
+t/01_use.t
 test.jpg
 test.lib
 test.pl
-test.png
 test.tga
 TODO
 typemap
